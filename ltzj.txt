@@ -2,16 +2,19 @@
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
+http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://120.87.103.8:45213/rtp/239.0.1.3:8008$广东联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://175.8.30.132:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南电信
-CCTV4-国际,http://175.8.30.132:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$湖南电信
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://120.87.103.8:45213/rtp/239.0.1.65:8080$广东联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://iptv.4666888.xyz/iptv2A.php?id=7$风云试看
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://124.90.44.40:6060/010/2/00000001000000060000000000000471/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
+http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://120.87.103.8:45213/rtp/239.0.1.4:8084$广东联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
@@ -22,6 +25,8 @@ http://120.87.103.8:45213/rtp/239.0.1.66:8004$广东联通
 http://iptv.4666888.xyz/iptv2A.php?id=8$风云试看
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
 http://124.90.44.40:6060/010/2/00000001000000060000000000000642/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
+http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
 http://120.87.103.8:45213/rtp/239.0.1.103:5052$广东联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
@@ -121,6 +126,8 @@ http://123.118.56.94:39901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$蓝天直播源
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
+http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://38.75.136.137:98/gslb/dsdqca/cctv4hd.m3u8?auth=test20251009$蓝天直播源
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://120.87.103.8:45213/rtp/239.0.1.180:6040$广东联通
@@ -172,7 +179,6 @@ https://smt.go-iptv.ggff.net/smart.php?id=Cctv4&token=Goiptv
 http://hxwangcong.x3322.net:26000/udp/239.112.205.202:5140$四川电信
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://jiugong.wulinsy.cn:39901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京联通酒店
-
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 https://migu.188766.xyz/?migutoken=59c2095392084ae77c5fc85c18d2e51c&id=CCTV4&type=yy$冰茶
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
@@ -204,27 +210,45 @@ http://120.196.235.42:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
 http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
+http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
 http://120.87.103.8:45213/rtp/239.0.1.101:8004$广东联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
 http://120.87.103.8:45213/rtp/239.0.1.104:5053$广东联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
 http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
+http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
 http://120.87.103.8:45213/rtp/239.0.1.105:5054$广东联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7国防军事
 http://124.90.44.40:6060/010/2/00000001000000060000000000000472/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7国防军事
+http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8电视剧
 http://124.90.44.40:6060/010/2/00000001000000060000000000000645/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8电视剧
+http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9纪录
 http://124.90.44.40:6060/010/2/00000001000000060000000000000473/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9纪录
+http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10科教
 http://124.90.44.40:6060/010/2/00000001000000060000000000000474/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10科教
+http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11戏曲
 http://124.90.44.40:6060/010/2/20002000000000010000000002750676/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11戏曲
+http://218.17.33.178:53290/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12社会与法
 http://124.90.44.40:6060/010/2/00000001000000060000000000000476/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12社会与法
+http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻
 http://124.90.44.40:6060/010/2/00000001000000060000000000000793/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻
+http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$卡西
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻
@@ -254,7 +278,9 @@ http://175.8.30.132:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻
 http://iptv.4666888.xyz/iptv2A.php?id=11$风云试看
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14少儿
-http://124.90.44.40:6060/010/2/00000001000000060000000000000477/1000.m3u8?virtualDomain=010.live_hls.zte.com
+http://124.90.44.40:6060/010/2/00000001000000060000000000000477/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14少儿
+http://218.17.33.178:53290/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14少儿
 http://38.75.136.137:98/gslb/dsdqca/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14少儿
@@ -273,12 +299,32 @@ https://iptv.catvod.com/live.php?id=CCTV14
 http://iptv.4666888.xyz/iptv2A.php?id=12$风云试看
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15音乐
 http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15音乐
+http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png",CCTV-16奥运
 http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 #EXTINF:-1 group-title="📺央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17农村农业
 http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17农村农业
+http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5⁺体育赛事
 http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5⁺体育赛事
+http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN记录片
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8#https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN
+http://139.227.221.119:9901/tsfile/live/1001_1.m3u8$上海黄埔联通
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN
+http://218.17.33.178:53290/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN-西
+http://go.bkpcp.top/mg/cgtne
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN-阿
+http://go.bkpcp.top/mg/cgtna
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN-法
+http://go.bkpcp.top/mg/cgtnf
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CETV1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" ,中国教育一套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CETV4" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png",中国教育二套
@@ -323,6 +369,7 @@ http://120.87.103.8:45213/rtp/239.0.1.240:4120$广东联通
 http://120.87.103.8:45213/rtp/239.0.1.43:4120$广东联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CETV4" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/CETV4.png",中国教育四套
 http://120.87.103.8:45213/rtp/239.0.1.211:4121$广东联通
+
 #EXTINF:-1 group-title="💰央视付费频道" tvg-name="央视高网" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg", CCTV-央视高网
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub$蓝天直播源
 #EXTINF:-1 group-title="💰央视付费频道" tvg-name="央视高网" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg", CCTV-央视高网
@@ -436,7 +483,6 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub$蓝天直播源1
 https://cc06.tv12.xyz/95.m3u8$蓝天直播源2
 #EXTINF:-1 group-title="💰央视付费频道" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" , CCTV-女性时尚
 http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ$蓝天直播源3
-
 #EXTINF:-1 group-title="💰央视付费频道" tvg-name="央视高网" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg", CCTV-央视高网
 http://lysj.aylzline.top:8899/rtp/225.1.2.163:10996$河南联通组播
 #EXTINF:-1 group-title="💰央视付费频道" tvg-name="央视高网" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg", CCTV-央视高网
@@ -469,17 +515,17 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 group-title="💰央视付费频道",电视指南
 http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="💰央视付费频道",老故事
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="📺央视频道",老故事
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=20260120040206227906c1389f42ada149831d1bb9d96a&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260120040206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=218.28.233.106&SecurityKey=20260120040206&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=ZQ-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1472a7a436ac0fb5d3a91794b528e28c
-#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/中学生.png" group-title="💰央视付费频道",中学生
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/中学生.png" group-title="📺央视频道",中学生
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20210415/cctvzhongxuesheng/51/index.m3u8?msisdn=20260120040206c502a956a59a4de5b041b3f9ab104962&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20260120040206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=218.28.233.106&SecurityKey=20260120040206&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=ZQ-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dad81b581e909d23789838cf278d8fdc
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="💰央视付费频道",发现之旅
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="📺央视频道",发现之旅
 http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=202601200402066222d816029e47729e53c5619e41264d&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260120040206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=218.28.233.106&SecurityKey=20260120040206&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=ZQ-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0b856b38302d789d324f696b40984816
-#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/中学生.png" group-title="💰央视付费频道",中学生
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/中学生.png" group-title="📺央视频道",中学生
 https://migu.188766.xyz/?migutoken=4889b3da2ffcecbe2ce9ab148f908c33&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="💰央视付费频道",老故事
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="📺央视频道",老故事
 https://migu.188766.xyz/?migutoken=1dc9c470ee3e0d7a6f9a6acb288343d1&id=%E8%80%81%E6%95%85%E4%BA%8B&type=yy
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="💰央视付费频道",发现之旅
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="📺央视频道",发现之旅
 https://migu.188766.xyz/?migutoken=7093d247c5b516b99dc1c3a19f4c043a&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
 http://116.77.33.98:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$深圳酒店
@@ -631,18 +677,6 @@ http://139.227.221.119:9901/tsfile/live/0013_1.m3u8$上海黄埔联通
 http://139.227.221.119:9901/tsfile/live/0014_1.m3u8$上海黄埔联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15音乐
 http://139.227.221.119:9901/tsfile/live/0015_1.m3u8$上海黄埔联通
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN
-http://139.227.221.119:9901/tsfile/live/1001_1.m3u8$上海黄埔联通
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN-西
-http://go.bkpcp.top/mg/cgtne
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN-阿
-http://go.bkpcp.top/mg/cgtna
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN-法
-http://go.bkpcp.top/mg/cgtnf
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN记录片
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8#https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://117.36.76.86:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信

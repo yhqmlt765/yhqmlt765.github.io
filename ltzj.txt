@@ -654,32 +654,6 @@ http://223.72.108.66:7788/708869532$海燕
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN
 http://223.72.108.66:7788/609017205$海燕
 
-#EXTINF:-1 group-title="📺体育频道" ,赛事最经典
-http://223.72.108.66:7788/646596895$海燕
-#EXTINF:-1 group-title="📺体育频道" ,体坛名栏汇
-http://223.72.108.66:7788/629943305$海燕
-#EXTINF:-1 group-title="📺纪实频道" ,四海钓鱼
-http://223.72.108.66:7788/637444975$海燕
-#EXTINF:-1 group-title="📺体育频道" ,陕西体育,
-http://223.72.108.66:7788/956909356$海燕
-#EXTINF:-1 group-title="📺纪实频道" ,武术世界
-http://223.72.108.66:7788/958475359$海燕
-#EXTINF:-1 group-title="📺纪实频道" ,快乐垂钓
-http://223.72.108.66:7788/961930263$海燕
-#EXTINF:-1 group-title="📺体育频道" ,辽宁体育
-http://223.72.108.66:7788/962067526$海燕
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
 http://116.77.33.98:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$深圳酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5⁺体育赛事
@@ -3061,6 +3035,14 @@ http://49.87.32.189:1234/629943305$咪咕
 
 #EXTINF:-1 group-title="📺体育频道" ,陕西体育
 http://49.87.32.189:1234/956909356$咪咕
+#EXTINF:-1 group-title="📺体育频道" ,赛事最经典
+http://223.72.108.66:7788/646596895$海燕
+#EXTINF:-1 group-title="📺体育频道" ,体坛名栏汇
+http://223.72.108.66:7788/637444975$海燕
+#EXTINF:-1 group-title="📺体育频道" ,陕西体育,
+http://223.72.108.66:7788/956909356$海燕
+#EXTINF:-1 group-title="📺体育频道" ,辽宁体育
+http://223.72.108.66:7788/962067526$海燕
 
 #EXTINF:-1 group-title="📺纪实频道" ,金鹰纪实
 http://117.36.76.86:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
@@ -3103,8 +3085,11 @@ http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 http://m.061899.xyz/mg/xjs
 #EXTINF:-1 group-title="📺纪实频道" ,四海钓鱼
 http://49.87.32.189:1234/637444975$咪咕
+
 #EXTINF:-1 group-title="📺纪实频道" ,武术世界
 http://49.87.32.189:1234/958475359$咪咕
+#EXTINF:-1 group-title="📺纪实频道" ,快乐垂钓
+http://223.72.108.66:7788/961930263$海燕
 #EXTINF:-1 group-title="📺纪实频道" ,快乐垂钓
 http://49.87.32.189:1234/961930263$咪咕
 #EXTINF:-1 group-title="📺纪实频道" ,快乐垂钓
@@ -3113,6 +3098,8 @@ http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
 #EXTINF:-1 group-title="📺纪实频道" ,茶频道
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-12.m3u8
+#EXTINF:-1 group-title="📺纪实频道" ,武术世界
+http://223.72.108.66:7788/958475359$海燕
 #EXTINF:-1 group-title="📺纪实频道" ,武术世界
 http://1.94.31.214/php/hntv.php?id=wspd
 #EXTINF:-1 group-title="📺纪实频道" ,武术世界

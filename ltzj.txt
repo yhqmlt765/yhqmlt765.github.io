@@ -3,8 +3,6 @@
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://139.227.221.119:9901/tsfile/live/0001_1.m3u8$上海黄埔联通
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
-http://49.87.32.189:1234/608807420$咪咕
 
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
@@ -17,9 +15,6 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000471/1000.m3u8?virtua
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://139.227.221.119:9901/tsfile/live/0002_1.m3u8$上海黄埔联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
-http://49.87.32.189:1234/631780532$咪咕
-
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://120.87.103.8:45213/rtp/239.0.1.4:8084$广东联通
@@ -29,9 +24,6 @@ http://120.87.103.8:45213/rtp/239.0.1.66:8004$广东联通
 http://124.90.44.40:6060/010/2/00000001000000060000000000000642/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
 http://139.227.221.119:9901/tsfile/live/0003_1.m3u8$上海黄埔联通
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
-http://49.87.32.189:1234/624878271$咪咕
-
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
 http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
@@ -125,7 +117,8 @@ http://123.118.56.94:39901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://139.227.221.119:9901/tsfile/live/0004_1.m3u8$上海黄埔联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
-http://49.87.32.189:1234/631780421$咪咕
+http://223.72.108.66:7788/631780421$海燕
+
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://117.36.76.86:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
 
@@ -199,8 +192,7 @@ http://120.196.235.42:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=
 http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
 http://139.227.221.119:9901/tsfile/live/0005_1.m3u8$上海黄埔联通
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
-http://49.87.32.189:1234/641886683$咪咕
+
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
 http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
@@ -521,12 +513,7 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 group-title="💰央视付费频道",电视指南
 http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-#EXTINF:-1 group-title="📺央视频道" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png",老故事
-http://49.87.32.189:1234/884121956$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png",发现之旅
-http://49.87.32.189:1234/624878970$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="中学生" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/中学生.png",中学生
-http://49.87.32.189:1234/708869532$咪咕
+
 #EXTINF:-1 group-title="📺央视频道" tvg-name="中学生" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/中学生.png",中学生
 http://e1.woc.iiiya.cn:18888/rtp/239.61.3.73:9956$褔建电信组播
 #EXTINF:-1 group-title="📺央视频道" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png",发现之旅
@@ -548,54 +535,6 @@ https://migu.188766.xyz/?migutoken=1dc9c470ee3e0d7a6f9a6acb288343d1&id=%E8%80%81
 https://migu.188766.xyz/?migutoken=7093d247c5b516b99dc1c3a19f4c043a&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
 
 
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
-http://49.87.32.189:1234/641886773$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
-http://49.87.32.189:1234/624878396$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7国防军事
-http://49.87.32.189:1234/673168121$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8电视剧
-http://49.87.32.189:1234/624878356$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9纪录
-http://49.87.32.189:1234/673168140$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10科教
-http://49.87.32.189:1234/624878405$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11戏曲
-http://49.87.32.189:1234/667987558$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12社会与法
-http://49.87.32.189:1234/673168185$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻
-http://49.87.32.189:1234/608807423$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14少儿
-http://49.87.32.189:1234/624878440$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15音乐
-http://49.87.32.189:1234/673168223$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17农村农业
-http://49.87.32.189:1234/673168256$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4欧洲" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4欧洲.png",CCTV4欧洲
-http://49.87.32.189:1234/608807419$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4美洲" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png" ,CCTV4美洲
-http://49.87.32.189:1234/608807416$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN记录片" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN记录片
-http://49.87.32.189:1234/609006487$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN-阿
-http://49.87.32.189:1234/609154345$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN-西
-http://49.87.32.189:1234/609006450$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN-法
-http://49.87.32.189:1234/609006476$咪咕
-#EXTINF:-1 group-title="📺央视频道" ,CGTN俄语
-http://49.87.32.189:1234/609006446$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" ,CGTN
-http://49.87.32.189:1234/609017205$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" ,中国教育一套
-http://49.87.32.189:1234/923287154$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV4" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png",中国教育二套
-http://49.87.32.189:1234/923287211$咪咕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CETV4" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/CETV4.png",中国教育四套
-http://49.87.32.189:1234/923287339$咪咕
-#EXTINF:-1 group-title="📺央视频道" ,中国天气
-http://49.87.32.189:1234/959986621$咪咕
 
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://223.72.108.66:7788/608807420$海燕
@@ -603,8 +542,7 @@ http://223.72.108.66:7788/608807420$海燕
 http://223.72.108.66:7788/631780532$海燕
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
 http://223.72.108.66:7788/624878271$海燕
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
-http://223.72.108.66:7788/631780421$海燕
+
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
 http://223.72.108.66:7788/641886683$海燕
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5⁺体育赛事
@@ -1612,49 +1550,6 @@ http://223.72.108.66:7788/956923145$海燕
 http://223.72.108.66:7788/738910535$海燕
 #EXTINF:-1 group-title="📺卫视频道" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
 http://223.72.108.66:7788/738910914$海燕
-
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
-http://49.87.32.189:1234/651632648$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
-http://49.87.32.189:1234/623899368$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
-http://49.87.32.189:1234/608831231$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
-http://49.87.32.189:1234/630287636$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
-http://49.87.32.189:1234/630291707$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
-http://49.87.32.189:1234/962042070$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
-http://49.87.32.189:1234/783847495$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
-http://49.87.32.189:1234/790187291$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
-http://49.87.32.189:1234/738910838$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="大湾区卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png",大湾区卫视
-http://49.87.32.189:1234/608917627$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
-http://49.87.32.189:1234/947472496$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
-http://49.87.32.189:1234/947472500$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
-http://49.87.32.189:1234/947472506$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
-http://49.87.32.189:1234/849116810$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png",海南卫视
-http://49.87.32.189:1234/947472502$咪咕
-#EXTINF:-1 group-title="📺卫视频道" ，海峡卫视
-http://49.87.32.189:1234/849119120$咪咕
-#EXTINF:-1 group-title="📺卫视频道" ，农林卫视
-http://49.87.32.189:1234/956904896$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png",兵团卫视
-http://49.87.32.189:1234/956923145$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视
-http://49.87.32.189:1234/738910535$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
-http://49.87.32.189:1234/738910914$咪咕
-#EXTINF:-1 group-title="📺卫视频道" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png",三沙卫视
-http://49.87.32.189:1234/961023778$咪咕
 
 #EXTINF:-1 group-title="📺卫视频道" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
 http://139.227.221.119:9901/tsfile/live/0107_1.m3u8$上海联通酒店
@@ -2977,8 +2872,7 @@ http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 https://hk.188766.xyz/?migutoken=e2ae66e0181b2f3cae295bad8f65ac5a&id=gd_gdty&type=sz
 #EXTINF:-1 group-title="📺体育频道" ,广东体育
 http://111.221.137.155:44330/tsfile/live/1000_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="📺体育频道" ,辽宁体育
-http://49.87.32.189:1234/962067526$咪咕
+
 #EXTINF:-1 group-title="📺体育频道" ,辽宁体育
 http://sh.lnott.top:880/dx22.m3u8
 #EXTINF:-1 group-title="📺体育频道" ,山东体育
@@ -3024,17 +2918,11 @@ rtmp://f13h.mine.nu/sat/tv721
 http://live.catvod.com/smart.php?id=videolandsport
 #EXTINF:-1 group-title="📺体育频道" ,澳门体育
 http://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 group-title="📺体育频道" ,体育休闲频道,
-http://49.87.32.189:1234/626064707$咪咕
+
 #EXTINF:-1 group-title="📺体育频道" ,江苏体育
 https://migu.188766.xyz/?migutoken=7af188800742ac6480ec8e901a9a1518&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
-#EXTINF:-1 group-title="📺体育频道" ,赛事最经典
-http://49.87.32.189:1234/646596895$咪咕
-#EXTINF:-1 group-title="📺体育频道" ,体坛名栏汇
-http://49.87.32.189:1234/629943305$咪咕
 
-#EXTINF:-1 group-title="📺体育频道" ,陕西体育
-http://49.87.32.189:1234/956909356$咪咕
+
 #EXTINF:-1 group-title="📺体育频道" ,赛事最经典
 http://223.72.108.66:7788/646596895$海燕
 #EXTINF:-1 group-title="📺体育频道" ,体坛名栏汇
@@ -3083,15 +2971,10 @@ http://m.061899.xyz/mg/xjs
 http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 group-title="📺纪实频道" ,东方纪实
 http://m.061899.xyz/mg/xjs
-#EXTINF:-1 group-title="📺纪实频道" ,四海钓鱼
-http://49.87.32.189:1234/637444975$咪咕
 
-#EXTINF:-1 group-title="📺纪实频道" ,武术世界
-http://49.87.32.189:1234/958475359$咪咕
 #EXTINF:-1 group-title="📺纪实频道" ,快乐垂钓
 http://223.72.108.66:7788/961930263$海燕
-#EXTINF:-1 group-title="📺纪实频道" ,快乐垂钓
-http://49.87.32.189:1234/961930263$咪咕
+
 #EXTINF:-1 group-title="📺纪实频道" ,快乐垂钓
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 #EXTINF:-1 group-title="📺纪实频道" ,快乐垂钓
@@ -3197,12 +3080,6 @@ http://e1.woc.iiiya.cn:18888/rtp/239.61.3.19:9634$褔建电信组播
 http://e1.woc.iiiya.cn:18888/rtp/239.61.3.21:9646$褔建电信组播
 #EXTINF:-1 group-title="📺纪实频道" ,武术世界
 http://e1.woc.iiiya.cn:18888/rtp/239.61.3.22:9652$褔建电信组播
-#EXTINF:-1 group-title="📺纪实频道" ,中华特产
-http://49.87.32.189:1234/959986618$咪咕
-#EXTINF:-1 group-title="📺纪实频道" ,环球旅游
-http://49.87.32.189:1234/958475356$咪咕
-#EXTINF:-1 group-title="📺纪实频道" ,茶频道
-http://49.87.32.189:1234/961930369$咪咕
 #EXTINF:-1 group-title="📺少儿频道" ,新动漫
 http://e1.woc.iiiya.cn:18888/rtp/239.61.3.18:9628$褔建电信组播
 #EXTINF:-1 group-title="📺少儿频道" ,金鹰卡通
@@ -3229,8 +3106,7 @@ http://lysj.aylzline.top:8899/rtp/225.1.2.45:10264$河南联通组播
 http://yhms.aylzline.top:8899/rtp/225.1.2.45:10264$河南联通组播
 #EXTINF:-1 group-title="📺少儿频道" ,卡酷动画
 http://zczb.aylzline.top:8899/rtp/225.1.2.45:10264$河南联通组播
-#EXTINF:-1 group-title="📺少儿频道" ,,优漫卡通
-http://49.87.32.189:1234/626064703$咪咕
+
 #EXTINF:-1 group-title="📺少儿频道" ,金鹰卡通
 http://lysj.aylzline.top:8899/rtp/225.1.2.46:10270$河南联通组播
 #EXTINF:-1 group-title="📺少儿频道" ,,优漫卡通
@@ -3275,14 +3151,7 @@ http://e1.woc.iiiya.cn:18888/rtp/239.61.2.72:8426$褔建电信组播
 
 #EXTINF:-1 group-title="📺少儿频道" ,福建少儿
 http://e1.woc.iiiya.cn:18888/rtp/239.61.2.9:8048$褔建电信组播
-#EXTINF:-1 group-title="📺少儿频道" ,最强综艺趴
-http://49.87.32.189:1234/629942228$咪咕
-#EXTINF:-1 group-title="📺少儿频道" ,嘉佳卡通
-http://49.87.32.189:1234/614952364$咪咕
-#EXTINF:-1 group-title="📺少儿频道" ,经典动画大集合
-http://49.87.32.189:1234/629942219$咪咕
-#EXTINF:-1 group-title="📺少儿频道" ,新动漫
-http://49.87.32.189:1234/961930269$咪咕
+
 #EXTINF:-1 group-title="📺影院剧场频道" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" ,CHC动作电影
 http://e1.woc.iiiya.cn:18888/rtp/239.61.3.16:9616$褔建电信组播
 #EXTINF:-1 group-title="📺影院剧场频道" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png",CHC影迷电影
@@ -3333,26 +3202,6 @@ http://168250.xyz:1111/rtp/239.5.1.50:5000
 http://168250.xyz:1111/rtp/239.5.1.52:5000
 
 
-#EXTINF:-1 group-title="📺影院剧场频道" ,经典香港电影
-http://49.87.32.189:1234/625703337$咪咕
-#EXTINF:-1 group-title="📺影院剧场频道" ,抗战经典影片
-http://49.87.32.189:1234/617432318$咪咕
-#EXTINF:-1 group-title="📺影院剧场频道" ,新片放映厅
-http://49.87.32.189:1234/619495952$咪咕
-#EXTINF:-1 group-title="📺影院剧场频道" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png",CHC影迷电影
-http://49.87.32.189:1234/952383261$咪咕
-#EXTINF:-1 group-title="📺影院剧场频道" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" ,CHC动作电影
-http://49.87.32.189:1234/644368714$咪咕
-#EXTINF:-1 group-title="📺影院剧场频道" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://49.87.32.189:1234/644368373$咪咕
-#EXTINF:-1 group-title="📺影院剧场频道" ,和美乡途轮播台
-http://49.87.32.189:1234/713591450$咪咕
-#EXTINF:-1 group-title="📺影院剧场频道" ,广州影视
-http://49.87.32.189:1234/614961829$咪咕
-#EXTINF:-1 group-title="📺影院剧场频道" ,东方影视
-http://49.87.32.189:1234/617290047$咪咕
-#EXTINF:-1 group-title="📺影院剧场频道" ,江苏影视
-http://49.87.32.189:1234/626064697$咪咕
 #EXTINF:-1 group-title="📺影院剧场频道" ,江苏影视
 https://mursor.ottiptv.cc/migu/626064697.m3u8?migutoken=b73f8d78cfb5fb25d1b0e54e8b651db35d48ff071c6fe1f7826fcc4e6212a20ba7c8991185d03743da42bafdff874a4a03b5df60e7c2aa293ad3b34997faa082e300149433e3b1c2694909770b$蓝天直播1
 #EXTINF:-1 group-title="📺影院剧场频道" ,江苏影视

@@ -96,39 +96,39 @@ CCTV-4中文国际,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/
 CCTV-4中文国际,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
 CCTV-4中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-4中文国际,http://120.196.235.42:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5体育,http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com
-CCTV-6电影,http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-5体育,http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+CCTV-6电影,http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-7国防军事,http://124.90.44.40:6060/010/2/00000001000000060000000000000472/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-7国防军事,http://124.90.44.40:6060/010/2/00000001000000060000000000000472/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-8电视剧,http://124.90.44.40:6060/010/2/00000001000000060000000000000645/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-8电视剧,http://124.90.44.40:6060/010/2/00000001000000060000000000000645/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-9纪录,http://124.90.44.40:6060/010/2/00000001000000060000000000000473/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-9纪录,http://124.90.44.40:6060/010/2/00000001000000060000000000000473/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-10科教,http://124.90.44.40:6060/010/2/00000001000000060000000000000474/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-10科教,http://124.90.44.40:6060/010/2/00000001000000060000000000000474/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-11戏曲,http://124.90.44.40:6060/010/2/20002000000000010000000002750676/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-11戏曲,http://124.90.44.40:6060/010/2/20002000000000010000000002750676/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-12社会与法,http://124.90.44.40:6060/010/2/00000001000000060000000000000476/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-12社会与法,http://124.90.44.40:6060/010/2/00000001000000060000000000000476/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-13新闻,http://124.90.44.40:6060/010/2/00000001000000060000000000000793/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-13新闻,http://124.90.44.40:6060/010/2/00000001000000060000000000000793/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-14少儿,http://124.90.44.40:6060/010/2/00000001000000060000000000000477/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-14少儿,http://124.90.44.40:6060/010/2/00000001000000060000000000000477/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-15音乐,http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtualDomain=010.live_hls.zte.com
-CCTV-16奥运,http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com
-CCTV-17农村农业,http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-15音乐,http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+CCTV-16奥运,http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+CCTV-17农村农业,http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-CCTV-5⁺体育赛事,http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
+CCTV-5⁺体育赛事,http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-中国教育一套,http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
+中国教育一套,http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 中国教育二套,http://120.87.103.8:45213/rtp/239.0.1.210:4120$广东联通
 中国教育三套,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
 中国教育三套,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 中国教育三套,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 中国教育三套,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
 中国教育三套,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-中国教育四套,http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
+中国教育四套,http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 中学生,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.73:9956$褔建电信组播
 发现之旅,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.74:9962$褔建电信组播
 CCTV-1综合,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.60:9878$褔建电信组播
@@ -140,21 +140,21 @@ CCTV-1综合,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.60:9878$褔建电信组�
 发现之旅,https://migu.188766.xyz/?migutoken=7093d247c5b516b99dc1c3a19f4c043a&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
 
 
-CCTV1-综合,http://139.227.221.119:9901/tsfile/live/0001_1.m3u8$上海黄埔联通
-CCTV2-财经,http://139.227.221.119:9901/tsfile/live/0002_1.m3u8$上海黄埔联通
-CCTV3-综艺,http://139.227.221.119:9901/tsfile/live/0003_1.m3u8$上海黄埔联通
-CCTV4-国际,http://139.227.221.119:9901/tsfile/live/0004_1.m3u8$上海黄埔联通
-CCTV5-体育,http://139.227.221.119:9901/tsfile/live/0005_1.m3u8$上海黄埔联通
-CCTV6-电影,http://139.227.221.119:9901/tsfile/live/0006_1.m3u8$上海黄埔联通
-CCTV7-军农,http://139.227.221.119:9901/tsfile/live/0007_1.m3u8$上海黄埔联通
-CCTV8-电视剧,http://139.227.221.119:9901/tsfile/live/0008_1.m3u8$上海黄埔联通
-CCTV9-纪录,http://139.227.221.119:9901/tsfile/live/0009_1.m3u8$上海黄埔联通
-CCTV10-科教,http://139.227.221.119:9901/tsfile/live/0010_1.m3u8$上海黄埔联通
-CCTV11-戏曲,http://139.227.221.119:9901/tsfile/live/0011_1.m3u8$上海黄埔联通
-CCTV12-社会与法,http://139.227.221.119:9901/tsfile/live/0012_1.m3u8$上海黄埔联通
-CCTV13-新闻,http://139.227.221.119:9901/tsfile/live/0013_1.m3u8$上海黄埔联通
-CCTV14-少儿,http://139.227.221.119:9901/tsfile/live/0014_1.m3u8$上海黄埔联通
-CCTV15-音乐,http://139.227.221.119:9901/tsfile/live/0015_1.m3u8$上海黄埔联通
+CCTV-1综合,http://139.227.221.119:9901/tsfile/live/0001_1.m3u8$上海黄埔联通
+CCTV-2财经,http://139.227.221.119:9901/tsfile/live/0002_1.m3u8$上海黄埔联通
+CCTV-3综艺,http://139.227.221.119:9901/tsfile/live/0003_1.m3u8$上海黄埔联通
+CCTV-4中文国际,http://139.227.221.119:9901/tsfile/live/0004_1.m3u8$上海黄埔联通
+CCTV-5体育,http://139.227.221.119:9901/tsfile/live/0005_1.m3u8$上海黄埔联通
+CCTV-6电影,http://139.227.221.119:9901/tsfile/live/0006_1.m3u8$上海黄埔联通
+CCTV-7国防军事,http://139.227.221.119:9901/tsfile/live/0007_1.m3u8$上海黄埔联通
+CCTV-8电视剧,http://139.227.221.119:9901/tsfile/live/0008_1.m3u8$上海黄埔联通
+CCTV-9纪录,http://139.227.221.119:9901/tsfile/live/0009_1.m3u8$上海黄埔联通
+CCTV-10科教,http://139.227.221.119:9901/tsfile/live/0010_1.m3u8$上海黄埔联通
+CCTV-11戏曲,http://139.227.221.119:9901/tsfile/live/0011_1.m3u8$上海黄埔联通
+CCTV-12社会与法,http://139.227.221.119:9901/tsfile/live/0012_1.m3u8$上海黄埔联通
+CCTV-13新闻,http://139.227.221.119:9901/tsfile/live/0013_1.m3u8$上海黄埔联通
+CCTV-14少儿,http://139.227.221.119:9901/tsfile/live/0014_1.m3u8$上海黄埔联通
+CCTV-15音乐,http://139.227.221.119:9901/tsfile/live/0015_1.m3u8$上海黄埔联通
 CGTN,http://139.227.221.119:9901/tsfile/live/1001_1.m3u8$上海黄埔联通
 
 CCTV-1综合,http://223.72.108.66:7788/608807420$海燕
@@ -224,21 +224,21 @@ CGTN纪录,http://113.218.204.144:9002/tsfile/live/0016_1.m3u8?key=txiptv&playli
 
 
 
-CCTV1-综合,http://117.36.76.86:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV2-财经,http://117.36.76.86:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV3-综艺,http://117.36.76.86:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV4-国际,http://117.36.76.86:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV5-体育,http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV6-电影,http://117.36.76.86:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV7-军农,http://117.36.76.86:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV8-电视剧,http://117.36.76.86:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV9-纪录,http://117.36.76.86:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV10-科教,http://117.36.76.86:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV11-戏曲,http://117.36.76.86:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV12-社会与法,http://117.36.76.86:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV13-新闻,http://117.36.76.86:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV14-少儿,http://117.36.76.86:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
-CCTV15-音乐,http://117.36.76.86:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-1综合,http://117.36.76.86:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-2财经,http://117.36.76.86:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-3综艺,http://117.36.76.86:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-4中文国际,http://117.36.76.86:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-5体育,http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-6电影,http://117.36.76.86:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-7国防军事,http://117.36.76.86:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-8电视剧,http://117.36.76.86:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-9纪录,http://117.36.76.86:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-10科教,http://117.36.76.86:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-11戏曲,http://117.36.76.86:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-12社会与法,http://117.36.76.86:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-13新闻,http://117.36.76.86:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-14少儿,http://117.36.76.86:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+CCTV-15音乐,http://117.36.76.86:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
 
 
 CCTV-1综合,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1

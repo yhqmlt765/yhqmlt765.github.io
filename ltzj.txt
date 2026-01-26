@@ -123,6 +123,8 @@ CCTV-5⁺体育赛事,http://124.90.44.40:6060/010/2/000000010000000600000000000
 中国教育二套,http://120.87.103.8:45213/rtp/239.0.1.210:4120$广东联通
 
 中国教育四套,http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+中学生,udp://113.26.251.182:8009:10001#http://113.26.251.182:8009/hls/66/index.m3u8$山西电信
+中学生,http://113.26.251.182:8009/hls/66/index.m3u8$山西电信
 中学生,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.73:9956$褔建电信组播
 发现之旅,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.74:9962$褔建电信组播
 CCTV-1综合,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.60:9878$褔建电信组播
@@ -233,7 +235,7 @@ CCTV-12社会与法,http://113.218.204.144:9002/tsfile/live/0012_1.m3u8?key=txip
 CCTV-13新闻,http://113.218.204.144:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$湖南电信
 CCTV-14少儿,http://113.218.204.144:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$湖南电信
 CCTV-15音乐,http://113.218.204.144:9002/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖南电信
-CGTN纪录,http://113.218.204.144:9002/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖南电信
+CGTN纪录片,http://113.218.204.144:9002/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖南电信
 
 
 
@@ -271,13 +273,13 @@ CCTV-15音乐,http://111.23.208.105:9999/tsfile/live/0015_2.m3u8?key=txiptv&play
 CCTV-17农村农业,http://111.23.208.105:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CCTV-5⁺体育赛事,http://111.23.208.105:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CGTN,http://111.23.208.105:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
-CGTN纪录,http://111.23.208.105:9999/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
+CGTN纪录片,http://111.23.208.105:9999/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 中国教育一套,http://111.23.208.105:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 
 CCTV-1综合,http://223.72.123.57:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店
 CCTV-2财经,http://223.72.123.57:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店
 CCTV-3综艺,http://223.72.123.57:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店
-CCTV-4国际,http://223.72.123.57:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店
+CCTV-4中文国际,http://223.72.123.57:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店
 CCTV-5体育,http://223.72.123.57:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店
 CCTV-6电影,http://223.72.123.57:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店
 CCTV-7国防军事,http://223.72.123.57:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店
@@ -414,7 +416,7 @@ CCTV-14少儿,http://120.196.235.42:9901/tsfile/live/1034_1.m3u8?key=txiptv&play
 CCTV-15音乐,http://120.196.235.42:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$七
 CCTV-5⁺体育赛事,http://120.196.235.42:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$七
 
-💰央视数字频道,#genre#
+📺数字频道,#genre#
 CCTV-卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub$澜露直播
 CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub$澜露直播
 CCTV-第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub$澜露直播
@@ -495,6 +497,15 @@ CCTV-怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8$香雅�
 CCTV-女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8$香雅情
 CCTV-央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8$香雅情
 CCTV-央视高网,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8$香雅情
+
+电视指南,udp://113.26.251.182:8009:10001#http://113.26.251.182:8009/hls/67/index.m3u8$山西电信
+电视指南,http://113.26.251.182:8009/hls/67/index.m3u8$山西电信
+女性时尚,udp://113.26.251.182:8009:10001#http://113.26.251.182:8009/hls/69/index.m3u8$山西电信
+女性时尚,http://113.26.251.182:8009/hls/69/index.m3u8$山西电信
+中华美食,udp://113.26.251.182:8009:10001#http://113.26.251.182:8009/hls/68/index.m3u8$山西电信
+中华美食,http://113.26.251.182:8009/hls/68/index.m3u8$山西电信
+游戏风云,udp://113.26.251.182:8009:10001#http://113.26.251.182:8009/hls/81/index.m3u8$山西电信
+游戏风云,http://113.26.251.182:8009/hls/81/index.m3u8$山西电信
 
 
 📺卫视频道,#genre#
@@ -920,6 +931,9 @@ CCTV-央视高网,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8$香�
 之江纪录高清,http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 📺粤语频道,#genre#
+
+凤凰中文,http://113.26.251.182:8009/hls/71/index.m3u8$山西电信
+凤凰资讯,http://113.26.251.182:8009/hls/70/index.m3u8$山西电信
 凤凰中文,https://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 凤凰资讯,https://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 凤凰香港,https://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
@@ -1253,6 +1267,10 @@ IPTV少儿动画,http://zczb.aylzline.top:8899/rtp/225.1.2.172:11050$河南联�
 📺影院剧场频道,#genre#
 CHC动作电影,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.16:9616$褔建电信组播
 CHC影迷电影,http://223.72.108.66:7788/952383261$海燕
+CHC家庭影院,http://113.26.251.182:8009/hls/82/index.m3u8#udp://113.26.251.182:8009:10001$山西电信
+CHC家庭影院,http://113.26.251.182:8009/hls/82/index.m3u8$山西电信
+CHC动作电影,http://113.26.251.182:8009/hls/83/index.m3u8#udp://113.26.251.182:8009:10001$山西电信
+CHC动作电影,http://113.26.251.182:8009/hls/83/index.m3u8$山西电信
 CHC家庭影院,http://lysj.aylzline.top:8899/rtp/225.1.2.214:11422$河南联通组播
 CHC家庭影院,http://yhms.aylzline.top:8899/rtp/225.1.2.214:11422$河南联通组播
 CHC家庭影院,http://zczb.aylzline.top:8899/rtp/225.1.2.214:11422$河南联通组播
@@ -1262,6 +1280,7 @@ CHC动作电影,http://zczb.aylzline.top:8899/rtp/225.1.2.215:11428$河南联通
 CHC影迷电影,http://lysj.aylzline.top:8899/rtp/225.1.2.210:11398$河南联通组播
 CHC影迷电影,http://yhms.aylzline.top:8899/rtp/225.1.2.210:11398$河南联通组播
 CHC影迷电影,http://zczb.aylzline.top:8899/rtp/225.1.2.210:11398$河南联通组播
+
 CHC影迷电影,https://migu.188766.xyz/?migutoken=2f55384e692d34647f39970bf56b8011&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy$冰茶
 CHC家庭影院,http://m.061899.xyz/mg/jtyy
 CHC动作电影,http://m.061899.xyz/mg/dzdy

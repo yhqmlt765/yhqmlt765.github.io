@@ -84,7 +84,7 @@
         },
 {
          "url":"https://jk.nxbox.top/yly/yly.json",
-         "name":⑱【念心小站】"
+         "name":"⑱【念心小站】"
        },
 {
       "url":"https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",

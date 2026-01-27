@@ -49,8 +49,8 @@
         },
 
 {
-           "url": "http://tvbox.王二小放牛娃.top","name":
-           "⑪【王二小影视】"
+           "url": "http://tvbox.王二小放牛娃.top",
+            "name": "⑪【王二小影视】"
         },
 
 
@@ -81,6 +81,13 @@
 {
            "url": "http://8.138.7.223/tv.txt",
            "name": "⑰【榴芒电视】"
-        }
-
+        },
+{
+         "url":"https://jk.nxbox.top/yly/yly.json",
+         "name":⑱【念心小站】"
+       },
+{
+      "url":"https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
+      "name":"⑲【青龙影视】"
+      }
 ]}

@@ -1268,7 +1268,7 @@ IPTV少儿动画,http://zczb.aylzline.top:8899/rtp/225.1.2.172:11050$河南联�
 嘉佳卡通,http://111.23.208.105:9999/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 炫动卡通,http://111.23.208.105:9999/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 
-📺影院剧场频道,#genre#
+📺影视频道,#genre#
 CHC动作电影,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.16:9616$褔建电信组播
 CHC影迷电影,http://223.72.108.66:7788/952383261$海燕
 CHC家庭影院,http://113.26.251.182:8009/hls/82/index.m3u8#udp://113.26.251.182:8009:10001$山西电信
@@ -1392,7 +1392,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$蓝天直播3
 
 
-📺浙江地方频道,#genre#
+📺省内频道,#genre#
 
 浙江卫视,http://live1.jzjsnm.cn/live1/zhejiang_sd.m3u8?auth_key=1674384741181-0-0-b0d3d583ee4176865132270fa1930ca8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8

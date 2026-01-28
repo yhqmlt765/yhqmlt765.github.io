@@ -115,7 +115,7 @@ CCTV-14少儿,http://124.90.44.40:6060/010/2/00000001000000060000000000000477/10
 
 CCTV-15音乐,http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 CCTV-16奥运,http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
-CCTV-17农村农业,http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+CCTV-17农业农村,http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
 CCTV-5⁺体育赛事,http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
@@ -187,7 +187,7 @@ CCTV-12社会与法,http://223.72.108.66:7788/673168185$海燕
 CCTV-13新闻,http://223.72.108.66:7788/608807423$海燕
 CCTV-14少儿,http://223.72.108.66:7788/624878440$海燕
 CCTV-15音乐,http://223.72.108.66:7788/673168223$海燕
-CCTV-17农村农业,http://223.72.108.66:7788/673168256$海燕
+CCTV-17农业农村,http://223.72.108.66:7788/673168256$海燕
 CCTV4欧洲,http://223.72.108.66:7788/608807419$海燕
 CCTV4美洲,http://223.72.108.66:7788/608807416$海燕
 CGTN纪录片,http://223.72.108.66:7788/609006487$海燕
@@ -217,7 +217,7 @@ CCTV-13新闻,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test2025100
 CCTV-14少儿,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$澜露直播
 CCTV-15音乐,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$澜露直播
 CCTV-16奥运,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009$澜露直播
-CCTV-17农村农业,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$澜露直播
+CCTV-17农业农村,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$澜露直播
 
 CCTV-1综合,http://go.bkpcp.top/mg/cctv1$一
 CCTV-2财经,http://go.bkpcp.top/mg/cctv2$一
@@ -236,7 +236,7 @@ CCTV-13新闻,http://go.bkpcp.top/mg/cctv13$一
 CCTV-14少儿,http://go.bkpcp.top/mg/cctv14$一
 CCTV-15音乐,http://go.bkpcp.top/mg/cctv15$一
 CCTV-16奥运,http://go.bkpcp.top/mg/cctv16$一
-CCTV-17农村农业,http://go.bkpcp.top/mg/cctv17$一
+CCTV-17农业农村,http://go.bkpcp.top/mg/cctv17$一
 
 CCTV-1综合,http://113.218.204.144:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南电信
 CCTV-2财经,http://113.218.204.144:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖南电信
@@ -288,7 +288,7 @@ CCTV-12社会与法,http://111.23.208.105:9999/tsfile/live/0012_2.m3u8?key=txipt
 CCTV-13新闻,http://111.23.208.105:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CCTV-14少儿,http://111.23.208.105:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CCTV-15音乐,http://111.23.208.105:9999/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
-CCTV-17农村农业,http://111.23.208.105:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
+CCTV-17农业农村,http://111.23.208.105:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CCTV-5⁺体育赛事,http://111.23.208.105:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CGTN,http://111.23.208.105:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CGTN纪录片,http://111.23.208.105:9999/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
@@ -368,7 +368,7 @@ CCTV-13新闻,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13$二
 CCTV-14少儿,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14$二
 CCTV-15音乐,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15$二
 CCTV-16奥运,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16$二
-CCTV-17农村农业,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17$二
+CCTV-17农业农村,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17$二
 
 
 CCTV-1综合,http://k.061899.xyz/m.php?id=cctv1$三
@@ -388,7 +388,7 @@ CCTV-13新闻,http://k.061899.xyz/m.php?id=cctv13$三
 CCTV-14少儿,http://k.061899.xyz/m.php?id=cctv14$三
 CCTV-15音乐,http://k.061899.xyz/m.php?id=cctv15$三
 CCTV-16奥运,http://k.061899.xyz/m.php?id=cctv16$三
-CCTV-17农村农业,http://k.061899.xyz/m.php?id=cctv17$三
+CCTV-17农业农村,http://k.061899.xyz/m.php?id=cctv17$三
 
 
 CCTV-1综合,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1$四
@@ -408,7 +408,7 @@ CCTV-13新闻,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13$四
 CCTV-14少儿,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14$四
 CCTV-15音乐,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15$四
 CCTV-16奥运,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16$四
-CCTV-17农村农业,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17$四
+CCTV-17农业农村,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17$四
 
 
 
@@ -429,7 +429,7 @@ CCTV-13新闻,http://go.bkpcp.top/mg/cctv13$五
 CCTV-14少儿,http://go.bkpcp.top/mg/cctv14$五
 CCTV-15音乐,http://go.bkpcp.top/mg/cctv15$五
 CCTV-16奥运,http://go.bkpcp.top/mg/cctv16$五
-CCTV-17农村农业,http://go.bkpcp.top/mg/cctv17$五
+CCTV-17农业农村,http://go.bkpcp.top/mg/cctv17$五
 CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o$五
 CCTV4美洲,http://go.bkpcp.top/mg/cctv4m$五
 CGTN-西,http://go.bkpcp.top/mg/cgtne$五
@@ -454,7 +454,7 @@ CCTV-13新闻,http://60.16.0.216:5757/hls/14/index.m3u8$六
 CCTV-14少儿,http://60.16.0.216:5757/hls/15/index.m3u8$六
 CCTV-15音乐,http://60.16.0.216:5757/hls/16/index.m3u8$六
 CCTV-16奥运,http://60.16.0.216:5757/hls/17/index.m3u8$六
-CCTV-17农村农业,http://60.16.0.216:5757/hls/18/index.m3u8$六
+CCTV-17农业农村,http://60.16.0.216:5757/hls/18/index.m3u8$六
 
 
 📺数字频道,#genre#

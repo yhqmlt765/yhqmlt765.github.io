@@ -118,6 +118,7 @@ CCTV-16奥林匹克,http://124.90.44.40:6060/010/2/01000010000000060000000000002
 CCTV-17农业农村,http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
 CCTV-5⁺体育赛事,http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
+CCTV-4K,https://5266.kstore.space/k-web/ku9/js/cctvnews.js?id=cctv4k
 CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o$五
 CCTV4美洲,http://go.bkpcp.top/mg/cctv4m$五
 
@@ -587,7 +588,7 @@ SZTV-游戏风云,http://113.26.251.182:8009/hls/81/index.m3u8$山西电信
 📺卫视频道,#genre#
 
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-CCTV4K,https://5266.kstore.space/k-web/ku9/js/cctvnews.js?id=cctv4k
+
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000392/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 东方卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000478/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
@@ -1036,12 +1037,12 @@ CCTV4K,https://5266.kstore.space/k-web/ku9/js/cctvnews.js?id=cctv4k
 杭州影视,http://124.90.44.40:6060/010/2/00000001000000060000000000000785/1000.m3u8?virtualDomain=010.live_hls.zte.com
 青少体育,http://124.90.44.40:6060/010/2/00000001000000060000000000000786/1000.m3u8?virtualDomain=010.live_hls.zte.com
 杭州导视,http://124.90.44.40:6060/010/2/00000001000000060000000000000787/1000.m3u8?virtualDomain=010.live_hls.zte.com
-宁波综合,http://124.90.44.40:6060/010/2/00000001000000060000000000000600/1000.m3u8?virtualDomain=010.live_hls.zte.com
-宁波生活,http://124.90.44.40:6060/010/2/00000001000000060000000000000789/1000.m3u8?virtualDomain=010.live_hls.zte.com
+宁波TV-1,http://124.90.44.40:6060/010/2/00000001000000060000000000000600/1000.m3u8?virtualDomain=010.live_hls.zte.com
+宁波TV-2,http://124.90.44.40:6060/010/2/00000001000000060000000000000789/1000.m3u8?virtualDomain=010.live_hls.zte.com
 宁波都市,http://124.90.44.40:6060/010/2/00000001000000060000000000000790/1000.m3u8?virtualDomain=010.live_hls.zte.com
 宁波影视,http://124.90.44.40:6060/010/2/00000001000000060000000000000791/1000.m3u8?virtualDomain=010.live_hls.zte.com
-温州一套,http://124.90.44.40:6060/010/2/00000001000000060000000000000490/1000.m3u8?virtualDomain=010.live_hls.zte.com
-衢州一套,http://124.90.44.40:6060/010/2/01000010000000060000000000002837/1000.m3u8?virtualDomain=010.live_hls.zte.com
+温州新闻综合,http://124.90.44.40:6060/010/2/00000001000000060000000000000490/1000.m3u8?virtualDomain=010.live_hls.zte.com
+衢州新闻综合,http://124.90.44.40:6060/010/2/01000010000000060000000000002837/1000.m3u8?virtualDomain=010.live_hls.zte.com
 衢州二套,http://124.90.44.40:6060/010/2/01000010000000060000000000002838/1000.m3u8?virtualDomain=010.live_hls.zte.com
 绍兴一套,http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtualDomain=010.live_hls.zte.com
 之江纪录,http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zte.com
@@ -1298,8 +1299,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8
 金鹰纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
 金鹰纪实,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-7.m3u8
-上海纪实,http://120.196.235.42:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 法治,http://120.196.235.42:9901/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
 北京纪实,http://m.061899.xyz/mg/bjjs
 东方纪实,http://m.061899.xyz/mg/xjs
@@ -1309,8 +1308,8 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 快乐垂钓,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 快乐垂钓,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
 茶频道,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-12.m3u8
-武术世界,http://223.72.108.66:7788/958475359$海燕
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd
+武术世界,http://223.72.108.66:7788/958475359$海燕
 武术世界,http://xxwx.yoesun.com/xxw/河南网.php?id=wspd
 武术世界,http://www.dsk.cc/hntv/hntv.php?id=wspd
 梨园频道,http://lysj.aylzline.top:8899/rtp/225.1.2.100:10594$河南联通组播
@@ -1400,8 +1399,30 @@ IPTV少儿动画,http://zczb.aylzline.top:8899/rtp/225.1.2.172:11050$河南联�
 嘉佳卡通,http://111.23.208.105:9999/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 炫动卡通,http://111.23.208.105:9999/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 
+📺春晚频道,#genre#
+1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+1994年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+1995年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+1996年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+2000年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+2001年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+2002年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+2003年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+2004年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+2005年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+2006年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+2007年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+2009年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+2010年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+2013年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+2014年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 📺影视频道,#genre#
-CHC动作电影,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.16:9616$褔建电信组播
 CHC影迷电影,http://223.72.108.66:7788/952383261$海燕
 CHC家庭影院,http://113.26.251.182:8009/hls/82/index.m3u8#udp://113.26.251.182:8009:10001$山西电信
 CHC家庭影院,http://113.26.251.182:8009/hls/82/index.m3u8$山西电信
@@ -1416,6 +1437,7 @@ CHC动作电影,http://zczb.aylzline.top:8899/rtp/225.1.2.215:11428$河南联通
 CHC影迷电影,http://lysj.aylzline.top:8899/rtp/225.1.2.210:11398$河南联通组播
 CHC影迷电影,http://yhms.aylzline.top:8899/rtp/225.1.2.210:11398$河南联通组播
 CHC影迷电影,http://zczb.aylzline.top:8899/rtp/225.1.2.210:11398$河南联通组播
+CHC动作电影,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.16:9616$褔建电信组播
 
 CHC影迷电影,https://migu.188766.xyz/?migutoken=2f55384e692d34647f39970bf56b8011&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy$冰茶
 CHC家庭影院,http://m.061899.xyz/mg/jtyy

@@ -189,9 +189,9 @@ CCTV-4中文国际,http://111.221.137.155:44330/tsfile/live/0004_1.m3u8?key=txip
 CCTV-5体育,http://111.221.137.234:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
 CCTV-5体育,http://36.36.200.196:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
 CCTV-5体育,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
-CCTV5+,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
-CCTV5+,http://36.36.200.196:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
-CCTV5+,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
+CCTV-5⁺体育赛事,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
+CCTV-5⁺体育赛事,http://36.36.200.196:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
+CCTV-5⁺体育赛事,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
 CCTV-6电影,http://111.221.137.234:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
 CCTV-6电影,http://36.36.200.196:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
 CCTV-6电影,http://111.221.137.155:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
@@ -1043,8 +1043,8 @@ SZTV-游戏风云,http://113.26.251.182:8009/hls/81/index.m3u8$山西电信
 宁波影视,http://124.90.44.40:6060/010/2/00000001000000060000000000000791/1000.m3u8?virtualDomain=010.live_hls.zte.com
 温州新闻综合,http://124.90.44.40:6060/010/2/00000001000000060000000000000490/1000.m3u8?virtualDomain=010.live_hls.zte.com
 衢州新闻综合,http://124.90.44.40:6060/010/2/01000010000000060000000000002837/1000.m3u8?virtualDomain=010.live_hls.zte.com
-衢州二套,http://124.90.44.40:6060/010/2/01000010000000060000000000002838/1000.m3u8?virtualDomain=010.live_hls.zte.com
-绍兴一套,http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtualDomain=010.live_hls.zte.com
+衢州公共,http://124.90.44.40:6060/010/2/01000010000000060000000000002838/1000.m3u8?virtualDomain=010.live_hls.zte.com
+绍兴新闻综合,http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtualDomain=010.live_hls.zte.com
 之江纪录,http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 📺粤语频道,#genre#
@@ -1130,7 +1130,7 @@ Now新闻台,http://cdn.163189.xyz/163189/now
 明珠台,http://ctsliveepg.uk:2347/livehttpplay?channel_id=30026
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-Channel [V],http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0$深圳酒店
+Channel V,http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0$深圳酒店
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$深圳酒店
 
 明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0$深圳酒店
@@ -1145,19 +1145,19 @@ Channel [V],http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playliv
 凤凰中文,http://www.python888.top:2025/python.php?id=fhzw
 凤凰中文,http://cdn5.1678520.xyz/live/?id=fhzw
 凤凰资讯台,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-凤凰中文台,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰香港台,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-凤凰香港台,http://124.95.180.107:6718/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文台,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-凤凰资讯台,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-凤凰香港台,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
-凤凰中文台,http://8.138.7.223/tv/fh.php?id=1
-凤凰资讯台,http://8.138.7.223/tv/fh.php?id=2
-凤凰香港台,http://8.138.7.223/tv/fh.php?id=3
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8#http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://124.95.180.107:6718/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
+凤凰中文,http://8.138.7.223/tv/fh.php?id=1
+凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
+凤凰香港,http://8.138.7.223/tv/fh.php?id=3
 
-凤凰中文台,http://zb.hpc.tw/smtv.php?id=phoenixtv_hd
-凤凰资讯台,http://zb.hpc.tw/smtv.php?id=phoenixinfo_hd
-凤凰香港台,http://zb.hpc.tw/smtv.php?id=hkphoenix_twn
+凤凰中文,http://zb.hpc.tw/smtv.php?id=phoenixtv_hd
+凤凰资讯,http://zb.hpc.tw/smtv.php?id=phoenixinfo_hd
+凤凰香港,http://zb.hpc.tw/smtv.php?id=hkphoenix_twn
 
 凤凰资讯,http://m.061899.xyz/mg/fhzx
 凤凰香港,http://m.061899.xyz/mg/fhhk
@@ -1180,7 +1180,7 @@ TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
 重温经典,http://111.221.137.155:44330/tsfile/live/1003_1.m3u8?key=txiptv
 明珠台,http://111.221.137.155:44330/tsfile/live/0138_2.m3u8?key=txiptv
 星空卫视,http://111.221.137.155:44330/tsfile/live/0139_1.m3u8?key=txiptv
-Channel [V],http://111.221.137.155:44330/tsfile/live/0118_1.m3u8?key=txiptv
+Channel V,http://111.221.137.155:44330/tsfile/live/0118_1.m3u8?key=txiptv
 
 凤凰中文音频,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯音频,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
@@ -1303,15 +1303,15 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 北京纪实,http://m.061899.xyz/mg/bjjs
 东方纪实,http://m.061899.xyz/mg/xjs
 北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-东方纪实,http://m.061899.xyz/mg/xjs
 东方纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 快乐垂钓,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
 快乐垂钓,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
 茶频道,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-12.m3u8
-武术世界,http://1.94.31.214/php/hntv.php?id=wspd
-武术世界,http://223.72.108.66:7788/958475359$海燕
 武术世界,http://xxwx.yoesun.com/xxw/河南网.php?id=wspd
 武术世界,http://www.dsk.cc/hntv/hntv.php?id=wspd
+武术世界,http://1.94.31.214/php/hntv.php?id=wspd
+武术世界,http://223.72.108.66:7788/958475359$海燕
+
 梨园频道,http://lysj.aylzline.top:8899/rtp/225.1.2.100:10594$河南联通组播
 梨园频道,http://yhms.aylzline.top:8899/rtp/225.1.2.100:10594$河南联通组播
 梨园频道,http://zczb.aylzline.top:8899/rtp/225.1.2.100:10594$河南联通组播

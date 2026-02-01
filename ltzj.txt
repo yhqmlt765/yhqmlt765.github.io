@@ -290,7 +290,7 @@ CCTV-17农业农村,http://go.bkpcp.top/mg/cctv17$一
 
 CCTV-1综合,http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 CCTV-2财经,http://36.136.38.87:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
-CCTV-4国际,http://36.136.38.87:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+CCTV-4中文国际,http://36.136.38.87:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 CCTV-5体育,http://36.136.38.87:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 CCTV-7国防军事,http://36.136.38.87:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 CCTV-9纪录,http://36.136.38.87:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动

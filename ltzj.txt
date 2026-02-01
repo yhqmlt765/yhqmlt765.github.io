@@ -119,8 +119,8 @@ CCTV-17农业农村,http://124.90.44.40:6060/010/2/00000001000000060000000000000
 
 CCTV-5⁺体育赛事,http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 CCTV-4K,https://5266.kstore.space/k-web/ku9/js/cctvnews.js?id=cctv4k
-CCTV4-欧洲,http://go.bkpcp.top/mg/cctv4o$五
-CCTV4-美洲,http://go.bkpcp.top/mg/cctv4m$五
+CCTV-4欧洲,http://go.bkpcp.top/mg/cctv4o$五
+CCTV-4美洲,http://go.bkpcp.top/mg/cctv4m$五
 
 CETV-1,http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 CETV-2,http://120.87.103.8:45213/rtp/239.0.1.210:4120$广东联通

@@ -39,6 +39,10 @@
         },
         
 {
+           "url": "http://qxyc.cc/自用测试", 
+           "name": "⑧【天微精选】"
+        },
+{
            "url": "https://3043.kstore.space/bhvip/bh/bh2.json", 
            "name": "⑨【宝盒影视】"
         },

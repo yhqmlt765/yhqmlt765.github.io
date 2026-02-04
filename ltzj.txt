@@ -228,30 +228,26 @@ CCTV-15音乐,http://36.36.200.196:44330/tsfile/live/0016_1.m3u8?key=txiptv&play
 CCTV-15音乐,http://111.221.137.155:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
 CCTV-16奥林匹克,http://36.36.200.196:44330/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0$海燕0117
 
-CCTV-1综合,http://101.42.157.180:1234/608807420$咪咕视频
-CCTV-2财经,http://101.42.157.180:1234/631780532$咪咕视频
-CCTV-3综艺,http://101.42.157.180:1234/624878271$咪咕视频
-CCTV-4中文国际,http://101.42.157.180:1234/631780421$咪咕视频
-CCTV-5体育,http://101.42.157.180:1234/641886683$咪咕视频
-CCTV-5⁺体育赛事,http://101.42.157.180:1234/641886773$咪咕视频
-CCTV-6电影,http://101.42.157.180:1234/624878396$咪咕视频
-CCTV-7国防军事,http://101.42.157.180:1234/673168121$咪咕视频
-CCTV-8电视剧,http://101.42.157.180:1234/624878356$咪咕视频
-CCTV-9纪录,http://101.42.157.180:1234/673168140$咪咕视频
-CCTV-10科教,http://101.42.157.180:1234/624878405$咪咕视频
-CCTV-11戏曲,http://101.42.157.180:1234/667987558$咪咕视频
-CCTV-12社会与法,http://101.42.157.180:1234/673168185$咪咕视频
-CCTV-13新闻,http://101.42.157.180:1234/608807423$咪咕视频
-CCTV-14少儿,http://101.42.157.180:1234/624878440$咪咕视频
-CCTV-15音乐,http://101.42.157.180:1234/673168223$咪咕视频
-CCTV-17农业农村,http://101.42.157.180:1234/673168256$咪咕视频
-CCTV-4欧洲,http://101.42.157.180:1234/608807419$咪咕视频
-CCTV-4美洲,http://101.42.157.180:1234/608807416$咪咕视频
-CGTN,http://101.42.157.180:1234/609017205$咪咕视频
-CGTN-阿,http://101.42.157.180:1234/609154345$咪咕视频
-CGTN-西,http://101.42.157.180:1234/609006450$咪咕视频
-CGTN-法,http://101.42.157.180:1234/609006476$咪咕视频
-CGTN-俄,http://101.42.157.180:1234/609006446$咪咕视频
+
+
+
+CCTV-1综合,https://xmlive.zeabur.app/yw/whyd?id=cctv1$武汉移动
+CCTV-2财经,https://xmlive.zeabur.app/yw/whyd?id=cctv2$武汉移动
+CCTV-3综艺,https://xmlive.zeabur.app/yw/whyd?id=cctv3$武汉移动
+CCTV-4中文国际,https://xmlive.zeabur.app/yw/whyd?id=cctv4$武汉移动
+CCTV-5体育,https://xmlive.zeabur.app/yw/whyd?id=cctv5$武汉移动
+CCTV-5⁺体育赛事,https://xmlive.zeabur.app/yw/whyd?id=cctv5p$武汉移动
+CCTV-6电影,https://xmlive.zeabur.app/yw/whyd?id=cctv6$武汉移动
+CCTV-7国防军事,https://xmlive.zeabur.app/yw/whyd?id=cctv7$武汉移动
+CCTV-8电视剧,https://xmlive.zeabur.app/yw/whyd?id=cctv8$武汉移动
+CCTV-9纪录,https://xmlive.zeabur.app/yw/whyd?id=cctv9$武汉移动
+CCTV-10科教,https://xmlive.zeabur.app/yw/whyd?id=cctv10$武汉移动
+CCTV-11戏曲,https://xmlive.zeabur.app/yw/whyd?id=cctv11$武汉移动
+CCTV-12社会与法,https://xmlive.zeabur.app/yw/whyd?id=cctv12$武汉移动
+CCTV-13新闻,https://xmlive.zeabur.app/yw/whyd?id=cctv13$武汉移动
+CCTV-14少儿,https://xmlive.zeabur.app/yw/whyd?id=cctv14$武汉移动
+CCTV-15音乐,https://xmlive.zeabur.app/yw/whyd?id=cctv15$武汉移动
+CCTV-17农业农村,https://xmlive.zeabur.app/yw/whyd?id=cctv17$武汉移动
 
 CCTV-1综合,http://59.110.126.191:3000/608807420$全国电视
 CCTV-2财经,http://59.110.126.191:3000/631780532$全国电视
@@ -611,6 +607,8 @@ CCTV-怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8$香雅�
 CCTV-女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8$香雅情
 CCTV-央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8$香雅情
 CCTV-央视高网,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8$香雅情
+CCTV-世界地理,https://xmlive.zeabur.app/yw/whyd?id=custom11$武汉移动
+CCTV-央视高网,https://xmlive.zeabur.app/yw/whyd?id=custom10$武汉移动
 
 
 CCTV-女性时尚,udp://113.26.251.182:8009:10001#http://113.26.251.182:8009/hls/69/index.m3u8$山西电信
@@ -659,27 +657,6 @@ SZTV-游戏风云,http://113.26.251.182:8009/hls/81/index.m3u8$山西电信
 甘肃卫视,http://124.90.44.40:6060/010/2/00000001000000060000000000000594/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 吉林卫视,http://124.90.44.40:6060/010/2/20002000000000010000000002776032/1000.m3u8?virtualDomain=010.live_hls.zte.com$浙江联通
 
-东方卫视,http://101.42.157.180:1234/651632648$咪咕视频
-江苏卫视,http://101.42.157.180:1234/623899368$咪咕视频
-广东卫视,http://101.42.157.180:1234/608831231$咪咕视频
-北京卫视,http://101.42.157.180:1234/630287636$咪咕视频
-辽宁卫视,http://101.42.157.180:1234/630291707$咪咕视频
-河北卫视,http://101.42.157.180:1234/962042070$咪咕视频
-江西卫视,http://101.42.157.180:1234/783847495$咪咕视频
-河南卫视,http://101.42.157.180:1234/790187291$咪咕视频
-陕西卫视,http://101.42.157.180:1234/738910838$咪咕视频
-大湾区卫视,http://101.42.157.180:1234/608917627$咪咕视频
-湖北卫视,http://101.42.157.180:1234/947472496$咪咕视频
-吉林卫视,http://101.42.157.180:1234/947472500$咪咕视频
-青海卫视,http://101.42.157.180:1234/947472506$咪咕视频
-东南卫视,http://101.42.157.180:1234/849116810$咪咕视频
-海南卫视,http://101.42.157.180:1234/947472502$咪咕视频
-海峡卫视,http://101.42.157.180:1234/849119120$咪咕视频
-农林卫视,http://101.42.157.180:1234/956904896$咪咕视频
-兵团卫视,http://101.42.157.180:1234/956923145$咪咕视频
-宁夏卫视,http://101.42.157.180:1234/738910535$咪咕视频
-重庆卫视,http://101.42.157.180:1234/738910914$咪咕视频
-三沙卫视,http://101.42.157.180:1234/961023778$咪咕视频
 
 
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub$澜露直播
@@ -735,7 +712,7 @@ SZTV-游戏风云,http://113.26.251.182:8009/hls/81/index.m3u8$山西电信
 天津卫视,http://218.17.33.178:53290/tsfile/live/0135_1.m3u8$广东电信酒店
 
 湖南卫视,http://36.136.38.87:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
-上海卫视,http://36.136.38.87:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+东方卫视,http://36.136.38.87:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 江苏卫视,http://36.136.38.87:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 广西卫视,http://36.136.38.87:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 浙江卫视,http://36.136.38.87:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
@@ -759,9 +736,43 @@ SZTV-游戏风云,http://113.26.251.182:8009/hls/81/index.m3u8$山西电信
 辽宁卫视,http://36.136.38.87:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 吉林卫视,http://36.136.38.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 山东卫视,http://36.136.38.87:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
-旅游卫视,http://36.136.38.87:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+海南卫视,http://36.136.38.87:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 青海卫视,http://36.136.38.87:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 大湾区卫视,http://36.136.38.87:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+
+北京卫视,https://xmlive.zeabur.app/yw/whyd?id=bjws$武汉移动
+天津卫视,https://xmlive.zeabur.app/yw/whyd?id=tjws$武汉移动
+重庆卫视,https://xmlive.zeabur.app/yw/whyd?id=cqws$武汉移动
+黑龙江卫视,https://xmlive.zeabur.app/yw/whyd?id=hljws$武汉移动
+吉林卫视,https://xmlive.zeabur.app/yw/whyd?id=jlws$武汉移动
+辽宁卫视,https://xmlive.zeabur.app/yw/whyd?id=lnws$武汉移动
+内蒙古卫视,https://xmlive.zeabur.app/yw/whyd?id=neimenggu$武汉移动
+宁夏卫视,https://xmlive.zeabur.app/yw/whyd?id=linxws$武汉移动
+甘肃卫视,https://xmlive.zeabur.app/yw/whyd?id=gsws$武汉移动
+青海卫视,https://xmlive.zeabur.app/yw/whyd?id=qhws$武汉移动
+陕西卫视,https://xmlive.zeabur.app/yw/whyd?id=shxws$武汉移动
+河北卫视,https://xmlive.zeabur.app/yw/whyd?id=hebeiws$武汉移动
+山西卫视,https://xmlive.zeabur.app/yw/whyd?id=sxws$武汉移动
+山东卫视,https://xmlive.zeabur.app/yw/whyd?id=sdws$武汉移动
+安徽卫视,https://xmlive.zeabur.app/yw/whyd?id=ahws$武汉移动
+河南卫视,https://xmlive.zeabur.app/yw/whyd?id=hnws$武汉移动
+湖北卫视,https://xmlive.zeabur.app/yw/whyd?id=hbws$武汉移动
+湖南卫视,https://xmlive.zeabur.app/yw/whyd?id=hunanws$武汉移动
+江西卫视,https://xmlive.zeabur.app/yw/whyd?id=jxws$武汉移动
+江苏卫视,https://xmlive.zeabur.app/yw/whyd?id=jsws$武汉移动
+浙江卫视,https://xmlive.zeabur.app/yw/whyd?id=zjws$武汉移动
+东南卫视,https://xmlive.zeabur.app/yw/whyd?id=dnws$武汉移动
+厦门卫视,https://xmlive.zeabur.app/yw/whyd?id=xmws$武汉移动
+广东卫视,https://xmlive.zeabur.app/yw/whyd?id=gdws$武汉移动
+深圳卫视,https://xmlive.zeabur.app/yw/whyd?id=szws$武汉移动
+广西卫视,https://xmlive.zeabur.app/yw/whyd?id=gxws$武汉移动
+云南卫视,https://xmlive.zeabur.app/yw/whyd?id=ynws$武汉移动
+贵州卫视,https://xmlive.zeabur.app/yw/whyd?id=gzws$武汉移动
+四川卫视,https://xmlive.zeabur.app/yw/whyd?id=scws$武汉移动
+新疆卫视,https://xmlive.zeabur.app/yw/whyd?id=xjws$武汉移动
+兵团卫视,https://xmlive.zeabur.app/yw/whyd?id=custom1$武汉移动
+西藏卫视,https://xmlive.zeabur.app/yw/whyd?id=xzws$武汉移动
+海南卫视,https://xmlive.zeabur.app/yw/whyd?id=custom12$武汉移动
 
 
 东方卫视,http://139.227.221.119:9901/tsfile/live/0107_1.m3u8$上海黄埔联通

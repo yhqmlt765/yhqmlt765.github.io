@@ -629,17 +629,15 @@
       "name": "今天直播",
       "type": 0,
       "url": "https://yhqmlt765.github.io/ltzj.txt",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
+      "epg": "https://epg.myxcwh.com/t.xml",
       "playerType": 2,
       "timeout": 10
     },
 {
       "name": "天微直播【回】",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt$",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "epg": "https://epg.myxcwh.com/t.xml",
       "playerType": 2,
       "timeout": 10
     },
@@ -671,6 +669,24 @@
       "playerType": 2,
       "timeout": 10
     },
+    
+  {
+      "name": "全国直播",
+      "type": 0,
+      "url": "https://14613.kstore.space/js.txt",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+     {
+      "name": "码点直播",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "epg": "https://epg.myxcwh.com/t.xml",
+      "playerType": 2,
+      "timeout": 10
+    }, 
 {
       "name": "冰茶直播【回】",
       "type": 0,

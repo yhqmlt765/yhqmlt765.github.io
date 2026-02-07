@@ -160,7 +160,7 @@ CCTV-1综合,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.60:9878$褔建电信组�
 中学生,https://migu.188766.xyz/?migutoken=4889b3da2ffcecbe2ce9ab148f908c33&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
 老故事,https://migu.188766.xyz/?migutoken=1dc9c470ee3e0d7a6f9a6acb288343d1&id=%E8%80%81%E6%95%85%E4%BA%8B&type=yy
 发现之旅,https://migu.188766.xyz/?migutoken=7093d247c5b516b99dc1c3a19f4c043a&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
-中国气象,http://38.75.136.137:98/gslb/dsdqpub/zgqx.m3u8?auth=testpub$澜露直播
+中国天气,http://38.75.136.137:98/gslb/dsdqpub/zgqx.m3u8?auth=testpub$澜露直播
 中国天气,http://101.200.122.188:1234/959986621
 
 
@@ -414,12 +414,12 @@ CCTV-15音乐,http://111.23.208.105:9999/tsfile/live/0015_2.m3u8?key=txiptv&play
 CCTV-17农业农村,http://111.23.208.105:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CCTV-5⁺体育赛事,http://111.23.208.105:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CGTN,http://111.23.208.105:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
-CGTN纪录片,http://111.23.208.105:9999/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
+CGTN-纪录片,http://111.23.208.105:9999/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 CETV-1,http://111.23.208.105:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
-中国气象,http://111.23.208.105:9999/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
+中国天气,http://111.23.208.105:9999/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-CGTN纪录片,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8#https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+CGTN-纪录片,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8#https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
 CCTV-1综合,http://223.72.123.57:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店
 CCTV-2财经,http://223.72.123.57:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店

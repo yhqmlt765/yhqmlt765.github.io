@@ -1494,7 +1494,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 📺少儿频道,#genre#
 金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 卡酷卡通,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
-佳佳卡通,http://36.136.38.87:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+嘉佳卡通,http://36.136.38.87:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动酒店
 卡酷动画,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动酒店
 嘉佳卡通,http://36.136.38.87:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动酒店

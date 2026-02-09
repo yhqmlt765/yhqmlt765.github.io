@@ -60,12 +60,13 @@ CCTV-3综艺,http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.
 CCTV-3综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$蓝天直播源
 CCTV-3综艺,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8$蓝天直播源
 
-CCTV-4中文国际,http://139.227.221.119:9901/tsfile/live/0004_1.m3u8$上海黄埔联通
-CCTV-4中文国际,http://117.36.76.86:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
 CCTV-4中文国际,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$蓝天直播源
 CCTV-4中文国际,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$广东电信酒店
 CCTV-4中文国际,http://38.75.136.137:98/gslb/dsdqca/cctv4hd.m3u8?auth=test20251009$蓝天直播源
 CCTV-4中文国际,http://120.87.103.8:45213/rtp/239.0.1.180:6040$广东联通
+CCTV-4中文国际,http://139.227.221.119:9901/tsfile/live/0004_1.m3u8$上海黄埔联通
+CCTV-4中文国际,http://117.36.76.86:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信
+
 CCTV-4中文国际,http://120.87.103.8:45213/rtp/239.0.1.67:8216$广东联通
 CCTV-4中文国际,http://116.77.33.98:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$深圳酒店
 CCTV-4中文国际,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$蓝天直播源

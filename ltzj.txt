@@ -1493,7 +1493,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 📺少儿频道,#genre#
 金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
-卡酷卡通,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
+卡酷动画,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 嘉佳卡通,http://36.136.38.87:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动
 金鹰卡通,http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动酒店
 卡酷动画,http://36.136.38.87:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$广西移动酒店
@@ -1522,7 +1522,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 IPTV少儿动画,http://lysj.aylzline.top:8899/rtp/225.1.2.172:11050$河南联通组播
 IPTV少儿动画,http://yhms.aylzline.top:8899/rtp/225.1.2.172:11050$河南联通组播
 IPTV少儿动画,http://zczb.aylzline.top:8899/rtp/225.1.2.172:11050$河南联通组播
-卡酷少儿,http://111.23.208.105:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
+卡酷动画,http://111.23.208.105:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 优漫卡通,http://111.23.208.105:9999/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 嘉佳卡通,http://111.23.208.105:9999/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 炫动卡通,http://111.23.208.105:9999/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
@@ -1754,7 +1754,7 @@ CHC动作电影,http://168250.xyz:1111/rtp/239.5.1.52:5000
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 遂昌综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
-龙泉公共新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
+龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 
@@ -1781,7 +1781,7 @@ CHC动作电影,http://168250.xyz:1111/rtp/239.5.1.52:5000
 宁波象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 衢州开化综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 衢州龙游生活,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-衢州龙游综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 衢州衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 温州永嘉综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
@@ -1789,16 +1789,16 @@ CHC动作电影,http://168250.xyz:1111/rtp/239.5.1.52:5000
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 绍兴嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 金华东阳综合,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-金华兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 丽水缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-丽水龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 丽水青田综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 丽水庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 丽水松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-丽水遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+遂昌综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8

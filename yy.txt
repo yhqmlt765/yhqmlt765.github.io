@@ -37,6 +37,8 @@
            "url": "https://7337.kstore.vip/tw.json", 
            "name": "⑧【天微影视】"
         },
+       
+
 {
            "url": "https://3043.kstore.space/bhvip/bh/bh2.json", 
            "name": "⑨【宝盒影视】"
@@ -88,5 +90,9 @@
 {
       "url":"https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
       "name":"⑲【青龙影视】"
+      },
+{
+      "url":"https://mpimg.cn/down.php/4034e4c113bf86a7a62503a17d2a185a.txt",
+       "name":"⑳【苹果影视】"
       }
 ]}

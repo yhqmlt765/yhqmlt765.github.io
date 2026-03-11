@@ -213,7 +213,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb1+GqQnoi1lWpnKce9V0IZMxpf6yxk9eNgZeUK3MNzrGGcdpZC2H5zoS1uF+soEYzGuu/VCCnyVL/Snb60T3H42VFwcgQWv43+HUeuF84cUpc9smkjU36oQqPTjRDlTbRHjUMjVz7/OB6Zlc9KG55HvmFKFepNRIpAdhU83eykx7Wd+jtXSNA8b8LuWRPJF9Kcj/DQvvLAQdSdalpQcgxABQwOb/Mcs8ZJV3J39c8cwYxGh30="
+            "ext": "rfOK0+FRORAJ7epFxdCFsrm0/2nAxc70wWkxet+pQQpHMwhf/CRws7twcbpNxtN8/yjNZ8NQzGtzsy0lRr5gUtCK/bOBCDvyG/+F1ve0Bj6jmQE2NlRfv8SxRwTxU45UAvc9pBtZKX6tTayriWHgSshJhEMsXzL4QRntnc9EHu88tRxNG+g1T/dGf2o7p5ejvMua/kJQMaFEZLLlU27CHaznhfTUu4POT9SXEy0rdH1Kfw4KEPsYuMpYFA=="
         },
         {
             "key": "视界",
@@ -639,6 +639,12 @@
         "img1.wsyzy.org=danmu.888484.xyz"
     ],
     "lives": [
+        {
+            "name": "develop202",
+            "type": 0,
+            "url": "./lives/develop202.txt",
+            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
+        },
        {
       "name": "今天直播",
       "type": 0,

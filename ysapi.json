@@ -458,19 +458,6 @@
             }
         },
         {
-            "key": "YiSo",
-            "name": "😹易搜┃三盘",
-            "type": 3,
-            "api": "csp_YiSoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "yiSoCookie": "satoken=4437cb8c-a260-411b-9a0d-1fa622ab422f"
-            }
-        },
-        {
             "key": "米搜",
             "name": "🦋米搜┃优夸",
             "type": 3,
@@ -636,16 +623,11 @@
     ],
     "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
     "hosts": [
-        "img1.wsyzy.org=danmu.888484.xyz"
+        "img1.wsyzy.org=danmu.888484.xyz",
+        "fiizvfck.top=danmu.888484.xyz"
     ],
     "lives": [
         {
-            "name": "develop202",
-            "type": 0,
-            "url": "./lives/develop202.txt",
-            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
-        },
-       {
       "name": "今天直播",
       "type": 0,
       "url": "https://yhqmlt765.github.io/ltzj.txt",

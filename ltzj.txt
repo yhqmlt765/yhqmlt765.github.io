@@ -154,6 +154,12 @@ CETV-2,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CETV-1,http://101.200.122.188:1234/923287154$咪咕视频
 CETV-2,http://101.200.122.188:1234/923287211$咪咕视频
 CETV-4,http://101.200.122.188:1234/923287339$咪咕视频
+老故事,http://180.76.145.203:1112/migu720p.php?id=884121956
+中学生,http://180.76.145.203:1112/migu720p.php?id=708869532
+CGTN,http://180.76.145.203:1112/migu720p.php?id=609017205
+CETV-1,http://180.76.145.203:1112/migu720p.php?id=923287154
+CETV-2,http://180.76.145.203:1112/migu720p.php?id=923287211
+CETV-4,http://180.76.145.203:1112/migu720p.php?id=923287339
 老故事,http://101.200.122.188:1234/884121956$咪咕视频
 发现之旅,http://101.200.122.188:1234/624878970$咪咕视频
 中学生,http://101.200.122.188:1234/708869532$咪咕视频
@@ -354,6 +360,36 @@ CCTV-15音乐,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test2025100
 CCTV-16奥林匹克,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009$澜露直播
 CCTV-17农业农村,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$澜露直播
 
+CCTV-1综合,http://154.12.36.187:656/index.php?token=7777&id=cctv1
+CCTV-2财经,http://154.12.36.187:656/index.php?token=7777&id=cctv2
+CCTV-3综艺,http://154.12.36.187:656/index.php?token=7777&id=cctv3
+CCTV-4中文国际,http://154.12.36.187:656/index.php?token=7777&id=cctv4
+CCTV-5体育,http://154.12.36.187:656/index.php?token=7777&id=cctv5
+CCTV-5⁺体育赛事,http://154.12.36.187:656/index.php?token=7777&id=cctv5p
+CCTV-6电影,http://154.12.36.187:656/index.php?token=7777&id=cctv6
+CCTV-7国防军事,http://154.12.36.187:656/index.php?token=7777&id=cctv7
+CCTV-8电视剧,http://154.12.36.187:656/index.php?token=7777&id=cctv8
+CCTV-9纪录,http://154.12.36.187:656/index.php?token=7777&id=cctv9
+CCTV-10科教,http://154.12.36.187:656/index.php?token=7777&id=cctv10
+CCTV-11戏曲,http://154.12.36.187:656/index.php?token=7777&id=cctv11
+CCTV-12社会与法,http://154.12.36.187:656/index.php?token=7777&id=cctv12
+CCTV-13新闻,http://154.12.36.187:656/index.php?token=7777&id=cctv13
+CCTV-14少儿,http://154.12.36.187:656/index.php?token=7777&id=cctv14
+CCTV-15音乐,http://154.12.36.187:656/index.php?token=7777&id=cctv15
+CCTV-16奥林匹克,http://154.12.36.187:656/index.php?token=7777&id=cctv16
+CCTV-17农业农村,http://154.12.36.187:656/index.php?token=7777&id=cctv17
+CCTV-4欧洲,http://154.12.36.187:656/index.php?token=7777&id=cctv4oz
+CCTV-4美洲,http://154.12.36.187:656/index.php?token=7777&id=cctv4mz
+CGTN-纪录片,http://154.12.36.187:656/index.php?token=7777&id=cgtnwyjl
+CGTN-阿,http://154.12.36.187:656/index.php?token=7777&id=cgtnalby
+CGTN-西,http://154.12.36.187:656/index.php?token=7777&id=cgtnxbyy
+CGTN-法,http://154.12.36.187:656/index.php?token=7777&id=cgtnfy
+CGTN-俄,http://154.12.36.187:656/index.php?token=7777&id=cgtney
+CGTN,http://154.12.36.187:656/index.php?token=7777&id=cgtn
+CETV1,http://154.12.36.187:656/index.php?token=7777&id=cetv1
+CETV2,http://154.12.36.187:656/index.php?token=7777&id=cetv2
+CETV4,http://154.12.36.187:656/index.php?token=7777&id=cetv4
+
 CCTV-1综合,http://go.bkpcp.top/mg/cctv1$一
 CCTV-2财经,http://go.bkpcp.top/mg/cctv2$一
 CCTV-3综艺,http://go.bkpcp.top/mg/cctv3$一
@@ -426,6 +462,7 @@ CETV-1,http://111.23.208.105:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&
 中国天气,http://111.23.208.105:9999/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0$长沙移动
 
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN-纪录片,http://180.76.145.203:1112/migu720p.php?id=609006487
 CGTN-纪录片,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8#https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
 CCTV-1综合,http://223.72.123.57:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京移动酒店

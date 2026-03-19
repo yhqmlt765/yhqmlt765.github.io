@@ -386,9 +386,9 @@ CGTN-西,http://154.12.36.187:656/index.php?token=7777&id=cgtnxbyy
 CGTN-法,http://154.12.36.187:656/index.php?token=7777&id=cgtnfy
 CGTN-俄,http://154.12.36.187:656/index.php?token=7777&id=cgtney
 CGTN,http://154.12.36.187:656/index.php?token=7777&id=cgtn
-CETV1,http://154.12.36.187:656/index.php?token=7777&id=cetv1
-CETV2,http://154.12.36.187:656/index.php?token=7777&id=cetv2
-CETV4,http://154.12.36.187:656/index.php?token=7777&id=cetv4
+CETV-1,http://154.12.36.187:656/index.php?token=7777&id=cetv1
+CETV-2,http://154.12.36.187:656/index.php?token=7777&id=cetv2
+CETV-4,http://154.12.36.187:656/index.php?token=7777&id=cetv4
 
 CCTV-1综合,http://go.bkpcp.top/mg/cctv1$一
 CCTV-2财经,http://go.bkpcp.top/mg/cctv2$一

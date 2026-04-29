@@ -24,5 +24,6 @@
 {"url":"https://gitee.com/yiwu369/6758/raw/master/青龙/1.json","name":"⑲【青龙影视】"},
 {"url":"https://yhqmlt765.github.io/xpg.txt","name":"⑳【苹果影视】"},
 {"url":"https://xn--biib-rp5imh.v.nxog.top/apitv.php","name":"㉑【小苹果影视】"},
-{"url":"https://gitee.com/yimi321/ymys/raw/master/yimi.jpg","name":"㉒【壹米影视】"}
+{"url":"https://8815.kstore.vip/tvbox/Ace","name":"㉒【网络4K影视】"},
+{"url":"https://gitee.com/yimi321/ymys/raw/master/yimi.jpg","name":"㉓【壹米影视】"}
 ]}

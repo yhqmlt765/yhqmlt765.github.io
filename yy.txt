@@ -3,6 +3,7 @@
 {"url":"https://yhqmlt765.github.io/ysapi.json","name":"①【饭太硬直播】"},
 {"url":"http://www.饭太硬.com/tv","name":"②【饭太硬影视】"},
 {"url":"https://9877.kstore.space/AnotherD/api.json","name":"③【潇洒影视】"},
+{"url":"https://9877.kstore.space/ONE/one.json","name":"③【潇洒影视】备"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"④【巧技影视】"},
 {"url":"https://yydsys.netlify.app/config.json","name":"⑤【多多影音】"},
 {"url":"http://ok213.top/tv","name":"⑥【OK影视1】"},

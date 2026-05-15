@@ -1,7 +1,7 @@
 ﻿{"warningText":"接口来自网络，有网就能用。","warningText":"影视在线接口",
 "urls":[
 {"url":"https://yhqmlt765.github.io/ysapi.json","name":"①【饭太硬直播】"},
-{"url":"http://www.饭太硬.com/tv","name":"②【饭太硬影视】"},
+{"url":"http://www.饭太硬.art/tv","name":"②【饭太硬影视】"},
 {"url":"https://9877.kstore.space/ONE/one.json","name":"③【潇洒影视】"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"④【巧技影视】"},
 {"url":"https://yydsys.netlify.app/config.json","name":"⑤【多多影音】"},
@@ -17,7 +17,7 @@
 {"url":"http://miqk.cc/小米/DEMO.json","name":"⑫【小米影视】"},
 {"url":"https://7337.kstore.vip/qxys/禁止传播.json","name":"⑬【七星影视】"},
 {"url":"http://tv.laohu.cool/tvbox.json","name":"⑭【老虎影视】"},
-{"url":"http://我不是.摸鱼儿.com","name":"⑮【摸鱼儿影视】"},
+{"url":"http://我不是.摸鱼儿.top","name":"⑮【摸鱼儿影视】"},
 {"url":"http://hb.小虎斑.site:25252/仅供测试","name":"⑯【小虎斑影视】"},
 {"url":"http://8.138.7.223/tv.txt","name":"⑰【榴芒电视】"},
 {"url":"https://jk.nxbox.top/yly/yly.json","name":"⑱【念心小站】"},
@@ -25,5 +25,6 @@
 {"url":"https://yhqmlt765.github.io/xpg.txt","name":"⑳【苹果影视】"},
 {"url":"https://xn--biib-rp5imh.v.nxog.top/apitv.php","name":"㉑【小苹果影视】"},
 {"url":"https://8815.kstore.vip/tvbox/Ace","name":"㉒【网络4K影视】"},
-{"url":"https://gitee.com/yimi321/ymys/raw/master/yimi.jpg","name":"㉓【壹米影视】"}
+{"url":"https://play.iptv365.org/天天开心/api.json","name":"㉓【开心影视】"},
+{"url":"https://gitee.com/yimi321/ymys/raw/master/yimi.jpg","name":"㉔【壹米影视】"}
 ]}

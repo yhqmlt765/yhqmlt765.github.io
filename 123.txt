@@ -12,6 +12,7 @@
 {"url":"https://9280.kstore.vip/newwex.json","name":"⑩【王二小影视】"},
 {"url":"https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json","name":"⑪【小米影视】"},
 {"url":"https://3043.kstore.space/bhvip/bh/bh2.json","name":"⑫【宝盒影视】"},
+{"url":"http://xn--6orr3pi6g9uu.top","name":"⑫【宝盒在线影视】"},
 {"url":"http://我不是.摸鱼儿.top","name":"⑬【摸鱼儿影视】"},
 {"url":"http://hb.小虎斑.site:25252/仅供测试","name":"⑭【小虎斑影视】"},
 {"url":"https://yhqmlt765.github.io/xpg.txt","name":"⑮【苹果影视】"},

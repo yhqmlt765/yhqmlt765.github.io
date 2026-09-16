@@ -17,5 +17,7 @@
 {"url":"http://hb.小虎斑.site:25252/仅供测试","name":"⑭【小虎斑影视】"},
 {"url":"https://yhqmlt765.github.io/xpg.txt","name":"⑮【苹果影视】"},
 {"url":"https://xn--biib-rp5imh.v.nxog.top/apitv.php","name":"⑯【小苹果影视】"},
-{"url":"https://play.iptv365.org/天天开心/api.json","name":"⑰【开心影视】"}
+{"url":"https://www.tangsan.fun/tv/","name":"⑰【唐三果影视】"},
+{"url":"http://www.英格里希嗷呜.top/tv","name":"⑱【嗷呜影视】"},
+{"url":"https://play.iptv365.org/天天开心/api.json","name":"⑲【开心影视】"}
 ]}

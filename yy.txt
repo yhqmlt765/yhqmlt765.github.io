@@ -27,5 +27,8 @@
 {"url":"https://xn--biib-rp5imh.v.nxog.top/apitv.php","name":"㉑【小苹果影视】"},
 {"url":"https://8815.kstore.vip/tvbox/Ace","name":"㉒【网络4K影视】"},
 {"url":"https://play.iptv365.org/天天开心/api.json","name":"㉓【开心影视】"},
-{"url":"https://gitee.com/yimi321/ymys/raw/master/yimi.jpg","name":"㉔【壹米影视】"}
+{"url":"https://www.tangsan.fun/tv/","name":"【唐三果影视】"},
+{"url":"http://www.英格里希嗷呜.top/tv","name":"【嗷呜影视】"},
+{"url":"https://9280.kstore.vip/newwex.json","name":"【免费分享】"},
+{"url":"https://gitee.com/yimi321/ymys/raw/master/yimi.jpg","name":"【壹米影视】"}
 ]}

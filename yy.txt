@@ -1,6 +1,7 @@
 ﻿{"warningText":"接口来自网络，有网就能用。","warningText":"影视在线接口",
 "urls":[
 {"url":"https://yhqmlt765.github.io/ysapi.json","name":"①【饭太硬直播】"},
+{"url":"https://yhqmlt765.github.io/ok882.json","name":"①【测试先试试】"},
 {"url":"http://www.饭太硬.art/tv","name":"②【饭太硬影视】"},
 {"url":"https://9877.kstore.space/ONE/one.json","name":"③【潇洒影视】"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"④【巧技影视】"},

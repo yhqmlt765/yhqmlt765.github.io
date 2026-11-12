@@ -21,7 +21,7 @@
 {"url":"http://www.饭太硬.art/tv","name":"②【饭太硬影视】"},
 {"url":"https://9877.kstore.space/sun.json","name":"③【潇洒影视】"},
 {"url":"https://0.cdz.qzz.io/tvbox/潇洒.json","name":"③【潇洒影视】备"},
-{"url":"https://qist.wyfc.qzz.io/xiaosa/api.json","name":"③【潇洒影视】三"},
+{"url":"https://space.四次元.com","name":"③【潇洒影视】三"},
 {"url":"https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"③【南风影视】"},
 {"url":"https://ztha.top/TVBox/thdjk.json","name":"③【挺好影视】"},
 {"url":"http://150.158.52.248/tgyg/bbm.json","name":"④【幸福年年影视】"},
@@ -50,5 +50,7 @@
 {"url":"https://play.iptv365.org/天天开心/api.json","name":"㉓【开心影视】"},
 {"url":"https://www.tangsan.fun/tv/","name":"【唐三果影视】"},
 {"url":"https://chigua.eu.org","name":"【东篱】"},
+{"url":"https://gitee.com/cycod/tvbox/raw/master/api.json","name":"【网友初忆】"},
+{"url":"https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json","name":"【网友无名】"},
 {"url":"https://0.wudaozhe.net/tvbox/高天流云js.json","name":"【高天流云影视】"}
 ]}
